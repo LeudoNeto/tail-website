@@ -2,6 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { BsBoxArrowUpRight } from "react-icons/bs";
+import { Link } from 'react-router-dom';
 
 function HomeCards(props) {
   return (
@@ -14,7 +15,7 @@ function HomeCards(props) {
         <Card.Text style={{ textAlign: "center" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.buttonLink}>
+        <Button as={Link} to={props.buttonLink} variant="primary">
           Acessar
           <BsBoxArrowUpRight style={{ fontSize: "1.2rem", marginLeft: "8px", marginBottom: "4px" }} />
         </Button>
