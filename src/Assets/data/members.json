@@ -1,0 +1,82 @@
+{
+    "Professores": [
+        {
+            "name": "Thaís Gaudêncio",
+            "imgPath": "members/professores/Thaís Gaudencio.png"
+        },
+        {
+            "name": "Yuri Malheiros",
+            "imgPath": "members/professores/Yuri Malheiros.png"
+        },
+        {
+            "name": "Nome do membro 3",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        } 
+    ],
+    "Fundadores": [
+        {
+            "name": "João Pedro Vasconcelos",
+            "imgPath": "members/fundadores/João Pedro Vasconcelos.png"
+        },
+        {
+            "name": "Nome do membro 7",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 8",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 9",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 10",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        }
+    ],
+    "Presidência": [
+        {
+            "name": "Nome do membro 11",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 12",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 13",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 14",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 15",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        }
+    ],
+    "Diretores": [
+        {
+            "name": "Nome do membro 16",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 17",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 18",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 19",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "name": "Nome do membro 20",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        }
+    ]
+  }

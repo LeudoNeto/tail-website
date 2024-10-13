@@ -1,0 +1,132 @@
+{
+    "2024.1": [
+        {
+            "diretoria": "Saúde",
+            "name": "ReticulAI",
+            "diretor": "Yvson Nunes",
+            "lider": "Luana de Méro",
+            "membros": [
+                "Gabriela Monteiro",
+                "Mauro Coimbra",
+                "Kaio Barreto",
+                "Camila Eduardo Costa"
+            ],
+            "description": "Este projeto trata-se de um sistema que realiza de forma automática a contagem e identificação de células do tecido sanguíneo chamadas de reticulócitos. A contagem de tais células são de grande importância para o diagnóstico e insights sobre doenças como anemia por exemplo. Atualmente, laboratórios de pequeno/médio porte fazem a contagem de modo manual. Assim, propomos um sistema automático de contagem dado a imagem da lâmina com as células.",
+            "imgPath": "https://cdn-icons-png.flaticon.com/512/9385/9385289.png"
+        },
+        {
+            "diretoria": "NLP",
+            "name": "LinguifAI",
+            "diretor": "Jonas Gabriel",
+            "lider": "Jonas Gabriel",
+            "membros": [
+                "Thauã Magalhães",
+                "Cameron Maloney",
+                "Gisele Silva",
+                "Bertrand Lira"
+            ],
+            "description": "LinguifAI é um projeto de Processamento de Linguagem Natural (PLN) que visa facilitar o uso de ferramentas de IA para classificação de texto. O LinguifAI é uma aplicação desktop que, por meio de uma interface amigável, irá permitir que qualquer usuário possa utilizar e treinar suas próprias redes neurais personalizadas com os seus dados.",
+            "imgPath": "projects/LinguifAI.png"
+        },
+        {
+            "diretoria": "Nome da Diretoria",
+            "name": "Nome do Projeto",
+            "diretor": "Nome do Diretor",
+            "lider": "Nome do Líder",
+            "membros": [
+                "Nome do Membro 1",
+                "Nome do Membro 2",
+                "Nome do Membro 3",
+                "Nome do Membro 4"
+            ],
+            "description": "Descrição do projeto",
+            "imgPath": ""
+        },
+        {
+            "diretoria": "Nome da Diretoria",
+            "name": "Nome do Projeto",
+            "diretor": "Nome do Diretor",
+            "lider": "Nome do Líder",
+            "membros": [
+                "Nome do Membro 1",
+                "Nome do Membro 2",
+                "Nome do Membro 3",
+                "Nome do Membro 4"
+            ],
+            "description": "Descrição do projeto",
+            "imgPath": ""
+        },
+        {
+            "diretoria": "Nome da Diretoria",
+            "name": "Nome do Projeto",
+            "diretor": "Nome do Diretor",
+            "lider": "Nome do Líder",
+            "membros": [
+                "Nome do Membro 1",
+                "Nome do Membro 2",
+                "Nome do Membro 3",
+                "Nome do Membro 4"
+            ],
+            "description": "Descrição do projeto",
+            "imgPath": ""
+        },
+        {
+            "diretoria": "Nome da Diretoria",
+            "name": "Nome do Projeto",
+            "diretor": "Nome do Diretor",
+            "lider": "Nome do Líder",
+            "membros": [
+                "Nome do Membro 1",
+                "Nome do Membro 2",
+                "Nome do Membro 3",
+                "Nome do Membro 4"
+            ],
+            "description": "Descrição do projeto",
+            "imgPath": ""
+        }
+    ],
+    "2023.2": [
+        {
+            "diretoria": "Nome da Diretoria",
+            "name": "Nome do Projeto",
+            "diretor": "Nome do Diretor",
+            "lider": "Nome do Líder",
+            "membros": [
+                "Nome do Membro 1",
+                "Nome do Membro 2",
+                "Nome do Membro 3",
+                "Nome do Membro 4"
+            ],
+            "description": "Descrição do projeto",
+            "imgPath": ""
+        },
+        {
+            "diretoria": "Nome da Diretoria",
+            "name": "Nome do Projeto",
+            "diretor": "Nome do Diretor",
+            "lider": "Nome do Líder",
+            "membros": [
+                "Nome do Membro 1",
+                "Nome do Membro 2",
+                "Nome do Membro 3",
+                "Nome do Membro 4"
+            ],
+            "description": "Descrição do projeto",
+            "imgPath": ""
+        },
+        {
+            "diretoria": "Nome da Diretoria",
+            "name": "Nome do Projeto",
+            "diretor": "Nome do Diretor",
+            "lider": "Nome do Líder",
+            "membros": [
+                "Nome do Membro 1",
+                "Nome do Membro 2",
+                "Nome do Membro 3",
+                "Nome do Membro 4"
+            ],
+            "description": "Descrição do projeto",
+            "imgPath": ""
+        }
+    ]
+}

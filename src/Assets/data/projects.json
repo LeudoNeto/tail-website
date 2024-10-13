@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Análise de jogos de GoalBall utilizando Inteligência Artifical",
+        "imgPath": "projects/Análise de jogos de GoalBall utilizando Inteligência Artifical.png",
+        "description": "Esse projeto tem a finalidade de criar um sistema capaz de analisar jogos de GoalBall em tempo real ou em vídeos gravados a fim de gerar um relatório contendo informações úteis para treinadores.",
+        "badges": [
+            {
+                "text": "CV",
+                "color": "primary"
+            },
+            {
+                "text": "2023.2",
+                "color": "secondary"
+            }
+        ]
+    },
+    {
+        "name": "WaveFlow",
+        "imgPath": "projects/WaveFlow.png",
+        "description": "O WaveFlow é uma aplicação que ajuda músicos e entusiastas à aproveitar o momento tocando seus instrumentos sem ter que se preocupar em rolar as páginas com a partitura. Além disso o WaveFlow também proporciona uma API que integra a aplicação, para que usuários possam utilizar seu serviço de classificação de acordes.",
+        "badges": [
+            {
+                "text": "Música",
+                "color": "warning"
+            },
+            {
+                "text": "2024.1",
+                "color": "secondary"
+            },
+            {
+                "text": "Aplicação",
+                "color": "success"
+            },
+            {
+                "text": "2023.2",
+                "color": "info"
+            }
+        ]
+    },
+    {
+        "name": "Príncipe do pitAIco",
+        "imgPath": "projects/Príncipe do pitAIco.png",
+        "description": "Participação no desafio da Startup Rei do Pitaco. Previsão de resultados da copa do mundo de 2022.",
+        "badges": [
+            {
+                "text": "ML",
+                "color": "danger"
+            },
+            {
+                "text": "2023.2",
+                "color": "secondary"
+            }
+        ]
+    },
+    {
+        "name": "Recomendação de filmes pelo IMDB",
+        "imgPath": "projects/Recomendação de filmes pelo IMDB.png",
+        "description": "O projeto serviu para aplicar alguns conceitos relacionados à atividades feitas, anteriormente, junto com os conhecimentos que foram adquiridos durante a execução do projeto como: colinearidade, distância euclidiana, KMeans, entre outros métodos para a criação de um sistema de recomendações.",
+        "badges": [
+            {
+                "text": "Trainees",
+                "color": "light"
+            },
+            {
+                "text": "2022.2",
+                "color": "secondary"
+            }
+        ]
+    },
+    {
+        "name": "School Violence",
+        "imgPath": "projects/School Violence.png",
+        "description": "Com o objetivo de extrair informações relevantes sobre a temática de violência nas escolas, a Diretoria de Trainees resolveu analisar um dataset americano que continha um registro histórico de 52 anos, totalizando 2069 ocorrências. Foi possível obter um perfil dos atiradores, vítimas, estados, bem como realizar uma análise preditiva inicial.",
+        "badges": [
+            {
+                "text": "Trainees",
+                "color": "light"
+            },
+            {
+                "text": "2023.1",
+                "color": "secondary"
+            }
+        ]
+    }
+]
